@@ -4,6 +4,8 @@
 
 双击 `index.html` 就能用；也可以放到任意静态托管（GitHub Pages、对象存储、Nginx）上。
 
+线上：<https://thinheader.github.io/guitar-chords/>（源码 <https://github.com/ThinHeader/guitar-chords>，推 `main` 后 Pages 自动重建，约半分钟生效）。
+
 ---
 
 ## 有什么
